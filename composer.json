@@ -9,5 +9,10 @@
             "email": "abdussalam.alali95@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Abdussalam\\ArDiffForHumans\\": "src/"
+        }
+    }
 }
