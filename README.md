@@ -11,9 +11,11 @@ Current Date: 2021-06-18 9:58pm , Given date: 2021-06-18 10:00pm
 Current Date: 2021-06-14 9:58pm , Given date: 2021-06-18 10:00pm
 
         result : منذ 4 أيام
-### Installing
+### Installation
 Using composer: <br>
-``
+`
+composer require abdussalam/arabicdiffforhumans
+`
 
 ### Usage:
 1- Get Diff from timestamp :
