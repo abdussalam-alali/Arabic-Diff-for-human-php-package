@@ -1,0 +1,13 @@
+{
+    "name": "abdussalam/arabicdiffforhumans",
+    "description": "Generating an Arabic human-readable date difference",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdussalam Al-Ali",
+            "email": "abdussalam.alali95@gmail.com"
+        }
+    ],
+    "require": {}
+}
